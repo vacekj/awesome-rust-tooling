@@ -13,5 +13,6 @@ Awesome Rust tooling for fast, correct workflows.
 | [Volt](https://github.com/dimensionhq/volt)* | NodeJS package manager | npm | 6x-12x |
 | [stc](https://stc.dudy.dev)* | Typescript Type Checker | tsc | 50x |
 | [ezno](https://github.com/kaleidawave/ezno)* | Typescript Type Checker | tsc | 34x |
+| [oxc](https://github.com/Boshen/oxc)* | Linter, Formatter, Transpiler, Minifier | eslint, prettier, babel, uglify | ? |
 
 \* not production ready
